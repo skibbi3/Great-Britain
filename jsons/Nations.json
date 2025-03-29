@@ -1,38 +1,31 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Great Britain",
+		"leaderName": "Queen Victoria",
+		"adjective": ["british"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Wider still and wider, shall my bounds be set!",
+		"attacked": "Britain's never, never, never shall be slaves!",
+		"defeated": "Alas, the sun has set on the British Empire.", 
+		"introduction": "We are pleased to meet you.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
+		"neutralHello": "How do you do?",
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Very well.",
+		"tradeRequest": "Would you be interested in a trade agreement with Britain?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [109, 2, 0],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Sun Never Sets",
+		"uniques": ["[+2] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>"],
+		"cities": ["London","York","Edinburgh","Cardiff","Hastings","Glasgow","Manchester","Birmingham","Dublin","Coventry","Warwick","Belfast","Newcastle","Oxford","Liverpool","Dover","Glasgow","Brighton","Norwich","Leeds","Reading","Canterbury","Richmond","Exeter","Cambridge","Gloucester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton","Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester"],
+        "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 	}
 ]
