@@ -6,8 +6,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "God save our gracious Queen Victoria of the British people. Under your watchful eye, the British people started the Industrial Revolution and invented the modern world. Your royal navy ruled the waves and protected the largest empire the world had ever seen.",
+		"startIntroPart2": "Great queen, your people look to you once again to take up the mantle and build an empire on which the sun will never set. Can you usher in a second Victorian era?",
 		
 		"declaringWar": "Wider still and wider, shall my bounds be set!",
 		"attacked": "Britain's never, never, never shall be slaves!",
