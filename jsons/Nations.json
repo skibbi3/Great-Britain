@@ -23,8 +23,8 @@
 		"outerColor": [109, 2, 0],
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
-		"uniqueName": "Sun Never Sets",
-		"uniques": ["[+2] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>"],
+		"uniqueName": "Land of Hope and Glory",
+		"uniques": ["[-50]% unhappiness from the number of cities <on foreign continents>"],
 		"cities": ["London","York","Edinburgh","Cardiff","Hastings","Glasgow","Manchester","Birmingham","Dublin","Coventry","Warwick","Belfast","Newcastle","Oxford","Liverpool","Dover","Glasgow","Brighton","Norwich","Leeds","Reading","Canterbury","Richmond","Exeter","Cambridge","Gloucester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton","Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester"],
         "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 	}
