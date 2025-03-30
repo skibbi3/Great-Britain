@@ -5,6 +5,7 @@
 		"adjective": ["british"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Victoria",
 		
 		"startIntroPart1": "God save our gracious Queen Victoria of the British people. Under your watchful eye, the British people started the Industrial Revolution and invented the modern world. Your royal navy ruled the waves and protected the largest empire the world had ever seen.",
 		"startIntroPart2": "Great queen, your people look to you once again to take up the mantle and build an empire on which the sun will never set. Can you usher in a second Victorian era?",

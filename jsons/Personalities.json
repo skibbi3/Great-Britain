@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Victoria",
+        "production": 8,
+        "food": 4,
+        "gold": 6,
+        "science": 7,
+        "culture": 6,
+        "happiness": 5,
+        "faith": 5,
+        "military": 5,
+        "aggressive": 3,
+        "declareWar": 6,
+        "commerce": 6,
+        "diplomacy": 7,
+        "loyal": 7,
+        "expansion": 8,
+        "priorities": {
+            "Tradition": 6,
+            "Liberty": 6,
+            "Honor": 4,
+            "Commerce": 8,
+            "Patronage": 8,
+            "Piety": 5,
+            "Rationalism": 6,
+            "Freedom": 8,
+            "Autocracy": 4,
+            "Order": 3
+        }
+    }
+]
